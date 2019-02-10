@@ -1,8 +1,8 @@
 # MyKeypirinhaThemes
 
-## My collection of Keypirinha themes.
+### My collection of Keypirinha themes.
 
-### Currently I have 4 themes available in 2 variants (normal .and compact)
+Currently I have 4 themes available in 2 variants (normal and compact).
 
 1) AlfredDefault
 
@@ -31,10 +31,10 @@
 ## Usage
 
 - Select your theme.
-- Open it inside your editor.
+- Open it in your editor.
 - Copy all of its content.
 - Paste that at the end of your `Keypirinha.ini` file.
-- In `gui` section in config file, set `theme = [SELECTED THEME FILE NAME]`.
+- In `gui` section of config file, set `theme = [SELECTED THEME FILE NAME]`.
     - e.g. `theme = AlfredDefault-Compact` for `AlfredDefault-Compact` theme.
 - Save the config file and let `Keypirinha` reload.
 - Eat your breakfast and sleep all day long.
