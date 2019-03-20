@@ -6,25 +6,25 @@ Currently I have 4 themes available in 2 variants (normal and compact).
 
 1) AlfredDefault
 
-| [<img src="./imgs/alfreddefault.png">](./AlfredDefault/AlfredDefault.keypirinha-theme) | [<img src="./imgs/alfreddefault.png">](./AlfredDefault/AlfredDefault-Compact.keypirinha-theme) |
+| [<img src="./imgs/alfreddefault.png">](./src/AlfredDefault/AlfredDefault.keypirinha-theme) | [<img src="./imgs/alfreddefault.png">](./src/AlfredDefault/AlfredDefault-Compact.keypirinha-theme) |
 | :-: | :-: |
 | AlfredDefault | AlfredDefault-Compact |
 
 2) DarkMojave
 
-| [<img src="./imgs/darkmojave.png">](./DarkMojave/DarkMojave.keypirinha-theme) | [<img src="./imgs/darkmojave.png">](./DarkMojave/DarkMojave-Compact.keypirinha-theme) |
+| [<img src="./imgs/darkmojave.png">](./src/DarkMojave/DarkMojave.keypirinha-theme) | [<img src="./imgs/darkmojave.png">](./src/DarkMojave/DarkMojave-Compact.keypirinha-theme) |
 | :-: | :-: |
 | DarkMojave | DarkMojave-Compact |
 
 3) Dext
 
-| [<img src="./imgs/dext.png">](./Dext/Dext.keypirinha-theme) | [<img src="./imgs/dext.png">](./Dext/Dext-Compact.keypirinha-theme) |
+| [<img src="./imgs/dext.png">](./src/Dext/Dext.keypirinha-theme) | [<img src="./imgs/dext.png">](./src/Dext/Dext-Compact.keypirinha-theme) |
 | :-: | :-: |
 | Dext | Dext-Compact |
 
 4) Novad
 
-| [<img src="./imgs/novad.png">](./Novad/Novad.keypirinha-theme) | [<img src="./imgs/novad.png">](./Novad/Novad-Compact.keypirinha-theme) |
+| [<img src="./imgs/novad.png">](./src/Novad/Novad.keypirinha-theme) | [<img src="./imgs/novad.png">](./src/Novad/Novad-Compact.keypirinha-theme) |
 | :-: | :-: |
 | Novad | Novad-Compact |
 
